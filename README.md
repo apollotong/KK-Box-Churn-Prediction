@@ -9,3 +9,4 @@ After preprocessing the data, we use only part of the useful data in the data fi
 * sample_submission.csv
 * user_logs_v2.csv
 
+Please review final report for the detailed approach
